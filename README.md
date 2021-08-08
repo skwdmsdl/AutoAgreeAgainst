@@ -9,9 +9,9 @@ selenium
 
 4. resources 안
 
-ChosunIdPwList.txt
-DaumIdPwList.txt
-DongaIdPwList.txt
+   ChosunIdPwList.txt.
+   DaumIdPwList.txt.
+   DongaIdPwList.txt
 
 파일 안에 아이디와 비번을 tab 문자를 구분자로 넣음
 
