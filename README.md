@@ -17,6 +17,6 @@ selenium
 
 5. 실행
 
-조선일보 /AutoAgreeAgainst/src/main/java/chosun/RunChosun.java
-다음  /AutoAgreeAgainst/src/main/java/daum/RunDaum.java
+조선일보 /AutoAgreeAgainst/src/main/java/chosun/RunChosun.java,
+다음  /AutoAgreeAgainst/src/main/java/daum/RunDaum.java,
 동아 /AutoAgreeAgainst/src/main/java/donga/RunDonga.java
